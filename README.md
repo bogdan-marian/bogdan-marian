@@ -20,7 +20,7 @@ Currently based in Ghent, Belgium 🇧🇪, I specialize in backend architecture
 - **Lead Architect @ [Prompto.com](https://www.prompto.com/)**  
   Designed and maintained core backend services for a real estate platform, integrating cloud billing, e-signature, and geospatial services.
 
-- **Cofounder @ [x-launcher.com](https://app.x-launcher.com/#/dashboard)**  
+- **Cofounder @ [x-launcher.com](https://app.x-launcher.com/projects)**  
   Web3 launchpad tools on MultiversX — smart contract orchestration and dashboards for blockchain projects.
 
 - **Founder of Chessout**  
