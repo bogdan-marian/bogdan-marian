@@ -10,7 +10,7 @@ Currently based in Ghent, Belgium 🇧🇪, I specialize in backend architecture
 
 - ☁️ **Cloud-First Architecture**: Building scalable systems on GCP, AWS, and Azure
 - 🧱 **Clean Backend Design**: Spring Boot, OpenID Connect, REST, GraphQL, SQL/PLSQL
-- 🔄 **Integration & Workflows**: API gateways, event-driven design, BPM/workflow engines (Flowable, Camunda)
+- 🔌 **Systems Integration & Business Logic**: Connecting external services, defining process flows, and keeping things maintainable across teams and tools
 - 🛡 **Secure Systems**: Former NATO developer with experience in high-trust environments and data-critical infrastructure
 
 ---
